@@ -31,6 +31,7 @@
     "site/releases/120d76c6a29e1ed5b1f2153ba2ba1c81c956c9b8f024237f40e618de94eac59f.json",
     "site/releases/19db4c5ffab35fc9323b2ebf8504f80fbcd1484df24a991bcf00aa2ae7960709.json",
     "site/releases/242d80ac4dde930da38365b9eec1a67e165ef19b646afe0fe8166838ba606ca5.json",
+    "site/releases/681a90851f651a94544a5b5b61467a9e13020270635477c0bdaf87c165f87d43.json",
     "site/releases/748fc6c9de3b17187d77d4df69818b72939c03554225b9c3155929390db52411.json",
     "site/releases/84499e31b869a9e02cc30b44093a3c3bd251bee884a5ec78758922586cb31ddb.json",
     "site/releases/ababd1f9054c631ececa6977cd73300a20380c4a4a21af8c3d586412de05b54c.json",
@@ -40,6 +41,7 @@
     "site/runtime/9fd88db8c98bf81a1e52b7104dba7f796715b783ec6f2e3311420d3ae9d0d7ad/reader.js",
     "site/runtime/a268387a03c52038a83ea3102ba51e54ecdd9cd69d0aeb28a971db418cfd5079/reader.js",
     "site/runtime/a979de566a398a5f0c065f3d31bc041947482cc46bab4740b92b9fb9a746b467/reader.js",
+    "site/runtime/cca169884bcd566b7cefd6445ed37d6135df77fb2d4a9c67dda80dc6cbd4e5b7/reader.js",
     "site/runtime/cef455b1e6e5b7820a0fcc52eca13041d1c5d168737dc6a8f34bfe8eba983317/reader.css",
     "site/runtime/d7c6dfb32803052d04f949d5157b3be2017c3d9c319613cc6b3db351a4dc88b1/reader.js",
     "site/runtime/f0ade7d6a7bbd7e9518d674aaa0711319d943102fbef89524a30f2eb03542a67/reader.js",
@@ -48,27 +50,27 @@
   "files": {
     "README.md": {
       "bytes": 511,
-      "sha256": "39dffd68d87ae161f27b1e930bd2294bac1d07782b8052245b9f90ca7bb2d89e"
+      "sha256": "8bd551f7fa4b252049b2a2ba4bacfbe87de87b280435266bf3d79daf9355feef"
     },
     "reference/index.md": {
       "bytes": 381,
-      "sha256": "cc4ee0eefd60031b617c4b2de2a30172ab96172cd9b6d5e7d0d073627ee40834"
+      "sha256": "912ccef08432765ffed4b09d071773f4c6b5a23f54b902024ed204228bf45aa1"
     },
     "reference/skill/0001.md": {
       "bytes": 21961,
-      "sha256": "9e260a4ba88b5ec263e8ba8639f2202993cbdf4dcf3805f60963ab9f0b993d0b"
+      "sha256": "4297e8eb24bc90e98f32708492f2edd45ddaec6e5d8c97cf9f29ef22ef4430e6"
     },
     "reference/status-effect/0001.md": {
       "bytes": 15653,
-      "sha256": "5b678ddf739815e61f5745dfa19f4209a9705279b3303abc81a225d4539e082f"
+      "sha256": "782a1e9268b02f15ee2a3f6354bafe037d2f94a2c07b87aa90d6470e0fa05ac9"
     },
     "reference/survival-rule/0001.md": {
       "bytes": 51620,
-      "sha256": "cfd93c34199af93ad5b03d88fcf158eb76727f1ea3f1ab95dce4e9d3d945e896"
+      "sha256": "93af994cfa2fd3a06b1f7665c5e063e56fdaa37cc0decc4f09dae4bcc730acf1"
     },
     "reference/survival-rule/0002.md": {
       "bytes": 29546,
-      "sha256": "780371780815e89da21452a2c0739f70fc141210e46b7e3663d8e7b92062134d"
+      "sha256": "61d6e895a5104d2b28bd850efea7a3c4cebe6b8d5f1c6770be87cffd742b3242"
     },
     "site/.nojekyll": {
       "bytes": 0,
@@ -212,7 +214,7 @@
     },
     "site/reader.json": {
       "bytes": 6562,
-      "sha256": "3ecb5eb2e6d5f30cdb36ee115f0f32f12b913677f88a09c3db2cfa1c67e9bee6"
+      "sha256": "619fe617b46d3a3565309fa17044e1374e805d028607f18741a0e380bdc4467e"
     },
     "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json": {
       "bytes": 4990,
@@ -229,6 +231,10 @@
     "site/releases/242d80ac4dde930da38365b9eec1a67e165ef19b646afe0fe8166838ba606ca5.json": {
       "bytes": 6018,
       "sha256": "3931def8f856f6b20032142b902c70b64dd2bf0cd93a2493d9bfce4a423b1e56"
+    },
+    "site/releases/681a90851f651a94544a5b5b61467a9e13020270635477c0bdaf87c165f87d43.json": {
+      "bytes": 6562,
+      "sha256": "619fe617b46d3a3565309fa17044e1374e805d028607f18741a0e380bdc4467e"
     },
     "site/releases/748fc6c9de3b17187d77d4df69818b72939c03554225b9c3155929390db52411.json": {
       "bytes": 6562,
@@ -266,6 +272,10 @@
       "bytes": 15795,
       "sha256": "a979de566a398a5f0c065f3d31bc041947482cc46bab4740b92b9fb9a746b467"
     },
+    "site/runtime/cca169884bcd566b7cefd6445ed37d6135df77fb2d4a9c67dda80dc6cbd4e5b7/reader.js": {
+      "bytes": 24833,
+      "sha256": "cca169884bcd566b7cefd6445ed37d6135df77fb2d4a9c67dda80dc6cbd4e5b7"
+    },
     "site/runtime/cef455b1e6e5b7820a0fcc52eca13041d1c5d168737dc6a8f34bfe8eba983317/reader.css": {
       "bytes": 4358,
       "sha256": "cef455b1e6e5b7820a0fcc52eca13041d1c5d168737dc6a8f34bfe8eba983317"
@@ -284,7 +294,7 @@
     }
   },
   "kind": "generated-wiki-output",
-  "release_id": "748fc6c9de3b17187d77d4df69818b72939c03554225b9c3155929390db52411",
+  "release_id": "681a90851f651a94544a5b5b61467a9e13020270635477c0bdaf87c165f87d43",
   "repository_id": "skills-survival",
   "schema_version": 1
 }
