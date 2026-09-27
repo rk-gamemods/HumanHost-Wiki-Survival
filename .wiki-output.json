@@ -2,27 +2,27 @@
   "files": {
     "README.md": {
       "bytes": 511,
-      "sha256": "f5276dfa9b666a78700d25afca397982468bc2657aea7ab7a96ebbac0b468d33"
+      "sha256": "253b18097cf0ee6e8caee878ed4c27998c8037e0893975a796254314e7a61c1e"
     },
     "reference/index.md": {
       "bytes": 381,
-      "sha256": "cdfe12c967edecc6cb8dea0f1e80216a29e9973c407c0541671bf5be2b37a9fa"
+      "sha256": "d41f053511be70c60355f3f5fca146bd0bdcb77163d672cc7b6d615ec58c1669"
     },
     "reference/skill/0001.md": {
       "bytes": 21961,
-      "sha256": "56487f6664d01b77203e720b0bf507779c3196136728fd2193bf9abbfd4296b3"
+      "sha256": "e6b7dfbdba3509bd44714a28d6cbdc1bf1675b05738ee6083d534d974984593f"
     },
     "reference/status-effect/0001.md": {
       "bytes": 15653,
-      "sha256": "10caf8359b5e50cc55b3c3e93bbffed3f27356ad1d31a7706f032b91f495c327"
+      "sha256": "a1e11c6c2333d7f813e79914f3470effc374375722da90c541d618602711dcb2"
     },
     "reference/survival-rule/0001.md": {
       "bytes": 51620,
-      "sha256": "f86314db359dbd0dc7e10294058d15746d0832a2231843097b44ff533a25fa22"
+      "sha256": "35e6301b864bc1fe97b2f537397457b65980c272fa00e0c707f8be941ad721cb"
     },
     "reference/survival-rule/0002.md": {
       "bytes": 29546,
-      "sha256": "a9a28d188849c1f66bab8b9f0566f9e238cb8bd5d77e5b6e2a70255999aa2320"
+      "sha256": "74c9f2ac93b285eeed4b2f35344fc64d9664b7bce81c4cf717a131fb5bfaac5d"
     },
     "site/.nojekyll": {
       "bytes": 0,
@@ -145,16 +145,20 @@
       "sha256": "31b3df513e2f5dab1f6a5db5c18838345bc1e7fd666166dc98d48c996fba712f"
     },
     "site/reader.js": {
-      "bytes": 1371,
-      "sha256": "e84ddb12f036211b5a8c47c4e70ac0ab5eb1fef0c758438de353064e73ec0ff9"
+      "bytes": 1966,
+      "sha256": "60af12c1c57d601902c0960bce6ea77136ffe396136988797b1457c057deb782"
     },
     "site/reader.json": {
       "bytes": 4990,
-      "sha256": "e67f0c93037254f8cea06a2051553381d1449484e9f49ec5186f70facf9008f7"
+      "sha256": "a4e63f501890f397533927e246befec9386847adb11b63d6427a78ba5ad0752c"
     },
     "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json": {
       "bytes": 4990,
       "sha256": "e67f0c93037254f8cea06a2051553381d1449484e9f49ec5186f70facf9008f7"
+    },
+    "site/releases/120d76c6a29e1ed5b1f2153ba2ba1c81c956c9b8f024237f40e618de94eac59f.json": {
+      "bytes": 4990,
+      "sha256": "a4e63f501890f397533927e246befec9386847adb11b63d6427a78ba5ad0752c"
     },
     "site/runtime/cef455b1e6e5b7820a0fcc52eca13041d1c5d168737dc6a8f34bfe8eba983317/reader.css": {
       "bytes": 4358,
@@ -166,7 +170,7 @@
     }
   },
   "kind": "generated-wiki-output",
-  "release_id": "0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda",
+  "release_id": "120d76c6a29e1ed5b1f2153ba2ba1c81c956c9b8f024237f40e618de94eac59f",
   "repository_id": "skills-survival",
   "schema_version": 1
 }
