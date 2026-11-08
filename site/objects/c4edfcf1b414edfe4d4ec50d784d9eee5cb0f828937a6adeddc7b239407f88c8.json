@@ -1,0 +1,22 @@
+{
+  "checked_at": "2026-10-05T07:23:45+00:00",
+  "default_status": "missing",
+  "entries": [],
+  "kinds": [
+    "skill"
+  ],
+  "observation_id": "507e47bf01df30e9390c289fdd9fb86035f8480f446a510708370c5db53c1a0b",
+  "schema_version": 1,
+  "topics": [
+    {
+      "checked_at": "2026-10-05T07:23:45+00:00",
+      "destination": "Human Host:Content/Game Content/Perks",
+      "destination_revision": 225,
+      "reason": "literal-prose",
+      "revision": 225,
+      "status": "populated",
+      "title": "Human Host:Content/Game Content/Perks",
+      "url": "https://wiki.nerdwerx.io/index.php?title=Human+Host%3AContent%2FGame+Content%2FPerks&oldid=225"
+    }
+  ]
+}
