@@ -1,1 +1,129 @@
-{"allocated_count":582,"file_count":598,"file_index":[{"bytes":103,"count":1,"first":"README.md","last":"README.md","path":".wiki-ownership/17b1181796a9329c53482c2d89dd50fc89c671c1ff1c189c89508dd408a68f1d.json","sha256":"17b1181796a9329c53482c2d89dd50fc89c671c1ff1c189c89508dd408a68f1d"},{"bytes":721,"count":6,"first":"reference/changes.md","last":"reference/survival-rule/0002.md","path":".wiki-ownership/75256174e64bc375d8cd44a8b584efc46de9b0167df47373fd6031344701094e.json","sha256":"75256174e64bc375d8cd44a8b584efc46de9b0167df47373fd6031344701094e"},{"bytes":106,"count":1,"first":"site/.nojekyll","last":"site/.nojekyll","path":".wiki-ownership/7b4673514b7ddf5d18f414daa76348bc27a138601707b93ab79d40aad1cf6462.json","sha256":"7b4673514b7ddf5d18f414daa76348bc27a138601707b93ab79d40aad1cf6462"},{"bytes":108,"count":1,"first":"site/404.html","last":"site/404.html","path":".wiki-ownership/5e73b02122ff79119050df38122a70c929efd1c85de245226605832a59b91df0.json","sha256":"5e73b02122ff79119050df38122a70c929efd1c85de245226605832a59b91df0"},{"bytes":5767,"count":28,"first":"site/data/0068a6f85d14906f83528d9f98ca00f285d969cbb9a5ba54dae1847ff398ed74.json","last":"site/data/0fc90cfd31f48251212e37cf789e6af32b99d1a994d1b06f5d35661ba426c0b5.json","path":".wiki-ownership/6b485742904c8f837407c282b50530b0106b8521b1c33c750ee782245b17a4cf.json","sha256":"6b485742904c8f837407c282b50530b0106b8521b1c33c750ee782245b17a4cf"},{"bytes":4736,"count":23,"first":"site/data/106efcc1965dc7fec2a7b25edba4c7d6588a06dae19075da5d53200262281ab6.json","last":"site/data/1fe6bab1dbddd06434a7db24f9f7246e53ea182695b685a28456500d794801df.json","path":".wiki-ownership/b571cd2d6a0f7a6db13e5df0472a8c1e879c08c1f9774d814f316d5486108709.json","sha256":"b571cd2d6a0f7a6db13e5df0472a8c1e879c08c1f9774d814f316d5486108709"},{"bytes":5561,"count":27,"first":"site/data/20256124604c12dba025c1177a597f4a756adfddeff31541cb83ab87fb38882d.json","last":"site/data/2fecf3694c5dc6cb6da6d3acd39a81e63da5b07287a32cc050041b912f0d39b7.json","path":".wiki-ownership/fa76bc2fdbab9015e88778afaa1556d7d467429fa55cce0b678c525be4d30dcc.json","sha256":"fa76bc2fdbab9015e88778afaa1556d7d467429fa55cce0b678c525be4d30dcc"},{"bytes":5139,"count":25,"first":"site/data/300318c22cc1a58cc1b84a732bb27c0011d1fdf69f1099f0b60f83eda4d43d6d.json","last":"site/data/3fc247ec8595625332713871e03394298a615897370fae7fab8fdaa67c978d80.json","path":".wiki-ownership/2f21e19c1d544f197c328cc8df5b5651f4384c388313e91fc9b3cadf9d6df624.json","sha256":"2f21e19c1d544f197c328cc8df5b5651f4384c388313e91fc9b3cadf9d6df624"},{"bytes":6580,"count":32,"first":"site/data/403bd46d0b7247c0eedfc749a9c453503c41480bd2bdc39faf7680dfe26a303b.json","last":"site/data/4faeac1379dddd6c4c6b3273ae9c45b3f91e26dd191c623d14de374af19e7664.json","path":".wiki-ownership/eaa02eb76de2b2446934a34320d5be5b7527d9780309adfe417f47c3b96e970e.json","sha256":"eaa02eb76de2b2446934a34320d5be5b7527d9780309adfe417f47c3b96e970e"},{"bytes":7828,"count":38,"first":"site/data/50a1c801200005d3e64e63f09918f494c12d80de7822cc8066fd50cfced560a6.json","last":"site/data/5feedec0c0a82919e6f5d2b4cfc29278b3a5ec20263934aefdf650fff44bf63b.json","path":".wiki-ownership/bc2590b7636aac396ae10c3e823ef1cb5b8b782cc415883d95387c084c17dc29.json","sha256":"bc2590b7636aac396ae10c3e823ef1cb5b8b782cc415883d95387c084c17dc29"},{"bytes":8823,"count":43,"first":"site/data/60c9f554c425c20fb9a67dea5870d836c082956db00789eb5c9ac9a6a1b99bbb.json","last":"site/data/6fe9603498d53b9a9704838fcf09077d3fee4f6d7c4e545a64cb6c9a9d964a9c.json","path":".wiki-ownership/26b383c60e6b48d6565a7d7dfa980978ed4e69fb833fea128b951ea4fdc07f54.json","sha256":"26b383c60e6b48d6565a7d7dfa980978ed4e69fb833fea128b951ea4fdc07f54"},{"bytes":3293,"count":16,"first":"site/data/7005571492d6b6736f9bdc27dc2395cc51cb4d0aef06daafd3e093fd587df45a.json","last":"site/data/7ea77d382c0b32817c838a8efe05e2c4434bcb0217859840935f309aeee771f1.json","path":".wiki-ownership/b24e4870fc901c4ccc4a9b8d618dfa57f39ed0032bfc6fffeab1df7c049ba2f0.json","sha256":"b24e4870fc901c4ccc4a9b8d618dfa57f39ed0032bfc6fffeab1df7c049ba2f0"},{"bytes":5539,"count":27,"first":"site/data/81146ad065cebdade9ce97d11fa0975ed7e6834c974ba48f61a8666fb3e7a7c8.json","last":"site/data/8ee2bf6ca92956344a491be0c139c0c236403b747b427579574fe08923d9d7f0.json","path":".wiki-ownership/afba60e4d7e1a40016de779df373e20e495db771c7051d9161ad28971a0c57da.json","sha256":"afba60e4d7e1a40016de779df373e20e495db771c7051d9161ad28971a0c57da"},{"bytes":7004,"count":34,"first":"site/data/906fab8caf5208ac7469326d3219652fe781005bcf7acc3ee372d2fdf1b82734.json","last":"site/data/9fa3078f1331ff0bc9183741632ad22c06ecfaf01cda1e26d8a28da0ba1603a6.json","path":".wiki-ownership/af5ef0ba4b665d5d91bc05adc439c02222ad702ac50362f50720b6fd37fc7fc2.json","sha256":"af5ef0ba4b665d5d91bc05adc439c02222ad702ac50362f50720b6fd37fc7fc2"},{"bytes":4317,"count":21,"first":"site/data/a1515b8c708e1fcf66163fd4507cad83ba4640a7aa04cc750355a98e1e47601d.json","last":"site/data/afd6bf9e257437d21636105de0e23b42c55d1ff63a92511f2fa384c393b80b26.json","path":".wiki-ownership/8abb548ae3a91443063718c98246ef653e444d622ac835c8b40f1922fa1c57a3.json","sha256":"8abb548ae3a91443063718c98246ef653e444d622ac835c8b40f1922fa1c57a3"},{"bytes":5558,"count":27,"first":"site/data/b04d8fd480dec08208a8a82f68266a0ae780dc663f6ede08b13545bb809b9f17.json","last":"site/data/bff4671399679ce291d20859e2a00265dc8245220ceb28a204b8b00f5fcdca60.json","path":".wiki-ownership/5d1f6fc4919fb30a50ff322bca21a25d2199f4681d1c30f229f0005af4bad246.json","sha256":"5d1f6fc4919fb30a50ff322bca21a25d2199f4681d1c30f229f0005af4bad246"},{"bytes":7817,"count":38,"first":"site/data/c029b76bdd91313eb2372fe59f97e5ccd87071fe243fce3fc97e70fcc174961f.json","last":"site/data/cfddcbb429ed355c6f9f00d02f4d786fe419faa89d1c5ee8a20af4b234821c9a.json","path":".wiki-ownership/c48fa846d9436690a9f291dee452c0f551e55ca78e49de8f1e0abfa90fd46a4a.json","sha256":"c48fa846d9436690a9f291dee452c0f551e55ca78e49de8f1e0abfa90fd46a4a"},{"bytes":7009,"count":34,"first":"site/data/d02729e07381868d167e700358db93d431b660a7a3da29b7107178716932aac5.json","last":"site/data/dff9d9bcf8e94e5750613dbbadedf80b78e976a465f462778e5587d1cd65cf7b.json","path":".wiki-ownership/1d0a56b4ef5b88cc171cb9721a126a3951b73bd7ed4069d2046f91dc9f210ea2.json","sha256":"1d0a56b4ef5b88cc171cb9721a126a3951b73bd7ed4069d2046f91dc9f210ea2"},{"bytes":7426,"count":36,"first":"site/data/e00692ab0eb9b12cd315ef4e736fa121a3b97414b24fb752ad6b7ee389ea9d0e.json","last":"site/data/efa4460d1ba970789cd5d32df162a591886ee34fae7e6ccd9da344c7c57c5154.json","path":".wiki-ownership/6b4af47af46df6deeb9d37d59d0ce2b2c8f4e47eff2b71627381ee9bc4853632.json","sha256":"6b4af47af46df6deeb9d37d59d0ce2b2c8f4e47eff2b71627381ee9bc4853632"},{"bytes":6179,"count":30,"first":"site/data/f06a6a2137bc31ca9c0ba372c75256a91c0277b1440d8aae04551e51df3cf373.json","last":"site/data/ff531515faccc7e6a557d51fe328501b3a0278029db826cbcb9999e0d634f65e.json","path":".wiki-ownership/f7cdd8573a2d14a5c0e96bb3368baa729593c66a209cec71f7fc4b4de51201ea.json","sha256":"f7cdd8573a2d14a5c0e96bb3368baa729593c66a209cec71f7fc4b4de51201ea"},{"bytes":383,"count":3,"first":"site/groups/skill/index.html","last":"site/groups/survival-rule/index.html","path":".wiki-ownership/bd9a404892f6458937197fd27e4418d0d380bbb1ef0dd7fe48771bddeda3f487.json","sha256":"bd9a404892f6458937197fd27e4418d0d380bbb1ef0dd7fe48771bddeda3f487"},{"bytes":110,"count":1,"first":"site/index.html","last":"site/index.html","path":".wiki-ownership/fe1ac623dcc6c433504bc6c98fcf8c9859b01e0f52daa36240bf343ca8e00d76.json","sha256":"fe1ac623dcc6c433504bc6c98fcf8c9859b01e0f52daa36240bf343ca8e00d76"},{"bytes":10014,"count":48,"first":"site/objects/0781ad4897cab6c1711414187715b7262aeb112493e90ad2adb62922a359af68.json","last":"site/objects/f8191d1c5d3858345759eecb9a23ad4836cef1fe5fcf7d2a1731d3adf9f5861e.json","path":".wiki-ownership/fe966016c33b8da50d1f5ff5bff89bff073cd187a44ece36c3680df92293a882.json","sha256":"fe966016c33b8da50d1f5ff5bff89bff073cd187a44ece36c3680df92293a882"},{"bytes":11944,"count":58,"first":"site/reader.css","last":"site/runtime/f2003f4f769016362f2a437661a66391a7d90f6f76d284239f5886d398986417/reader.js","path":".wiki-ownership/85b4ea40b098481476925e1363589ff1d952691e637680849094deab3f3b7584.json","sha256":"85b4ea40b098481476925e1363589ff1d952691e637680849094deab3f3b7584"}],"files_sha256":"c5cf8aac3fc4976c8bb8bbce8300af3c414bebbcd0d5ccfcaa10715ed8a7938d","kind":"generated-wiki-output","release_id":"96ae38f0498340d7111d27a7f2ead19601b607554c2abc3ec196a68d6ce99e7b","repository_id":"skills-survival","retained_count":571,"retained_release_id":"48488e690f58db3bd9824c43bd309a73b128f5417715bf80de79a5ee9a0b00a2","schema_version":2}
+{
+  "capacity_objects": [
+    "site/data/3fc247ec8595625332713871e03394298a615897370fae7fab8fdaa67c978d80.json",
+    "site/data/4fa0050d1e250007f253b36a9d7040fa261b7f49ec24a4735d645d6f3074d814.json",
+    "site/data/61b08a7fc7f73aab62921bcd87d6106dc2613f62147dd2e4af129c1152a5b310.json",
+    "site/data/6a592e98e615a0f07abb4036dac123afdc49fa654970287dba72987889a7b951.json",
+    "site/data/8e2b35b610b0a3017adde5df24f426cb450b361898ae2cb2115a6765b7260b0f.json",
+    "site/data/caf2a623345a94c53adc1602ed7e1cf326683e380b4b592bef8c63c6de2facad.json",
+    "site/objects/0781ad4897cab6c1711414187715b7262aeb112493e90ad2adb62922a359af68.json",
+    "site/objects/e9d6071f2fb798446d4f539d744abad7bab0a94a6a955136a4fa94d9f8c095c2.json",
+    "site/releases/a1ed01a8fb6da0277fe90371fa6137e22cc6887cc3871c122ed19557488aa232.json",
+    "site/runtime/02b0e7861655c26a9be2fec058c6adcfa2bbd37fc11c38f10a07bb0d4812630b/reader.css",
+    "site/runtime/c92779fc2694bf7762ee6b5cf2e6da6a889b72c3e95e28adf1c3e01e20b645f0/reader.js"
+  ],
+  "files": {
+    "README.md": {
+      "bytes": 654,
+      "sha256": "29b4205ba43de4d5146fdbfefd1e6ea80cdb63ad083f2ed59945ca376189569e"
+    },
+    "reference/changes.md": {
+      "bytes": 234,
+      "sha256": "1fd1026b8caf4e9ee6f891ad08e4ff303c625309578c1943c8885b6d64953e4e"
+    },
+    "reference/index.md": {
+      "bytes": 418,
+      "sha256": "ade7c2a264d5e8f618d55988f8d117dbf5089f4d847eb8aa4ec72dff07630db7"
+    },
+    "reference/skill/0001.md": {
+      "bytes": 13968,
+      "sha256": "c24d111b334330e3babd8ed1452f2fcbe8e89c2678606fade62cdb4d7bf06e56"
+    },
+    "reference/status-effect/0001.md": {
+      "bytes": 11632,
+      "sha256": "08dc136f1736d1cf777941ef5a9aa9889112f28f243c7db26b873ca0577393c7"
+    },
+    "reference/survival-rule/0001.md": {
+      "bytes": 39667,
+      "sha256": "58c46ba89f8186e02deba1c738563c428b67f95322e679c128f63cbec6f9cf73"
+    },
+    "reference/survival-rule/0002.md": {
+      "bytes": 24663,
+      "sha256": "bb64f5f75e568c52961d5e1ab86bfb4663387789c820e9b77602dbe1d2c80f1d"
+    },
+    "site/.nojekyll": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "site/404.html": {
+      "bytes": 1821,
+      "sha256": "b3a7246d246431842420cc58dc86fea7e0df5cb878a8ae5a024b1005ea946078"
+    },
+    "site/data/3fc247ec8595625332713871e03394298a615897370fae7fab8fdaa67c978d80.json": {
+      "bytes": 305,
+      "sha256": "3fc247ec8595625332713871e03394298a615897370fae7fab8fdaa67c978d80"
+    },
+    "site/data/4fa0050d1e250007f253b36a9d7040fa261b7f49ec24a4735d645d6f3074d814.json": {
+      "bytes": 138270,
+      "sha256": "4fa0050d1e250007f253b36a9d7040fa261b7f49ec24a4735d645d6f3074d814"
+    },
+    "site/data/61b08a7fc7f73aab62921bcd87d6106dc2613f62147dd2e4af129c1152a5b310.json": {
+      "bytes": 336602,
+      "sha256": "61b08a7fc7f73aab62921bcd87d6106dc2613f62147dd2e4af129c1152a5b310"
+    },
+    "site/data/6a592e98e615a0f07abb4036dac123afdc49fa654970287dba72987889a7b951.json": {
+      "bytes": 55908,
+      "sha256": "6a592e98e615a0f07abb4036dac123afdc49fa654970287dba72987889a7b951"
+    },
+    "site/data/8e2b35b610b0a3017adde5df24f426cb450b361898ae2cb2115a6765b7260b0f.json": {
+      "bytes": 84935,
+      "sha256": "8e2b35b610b0a3017adde5df24f426cb450b361898ae2cb2115a6765b7260b0f"
+    },
+    "site/data/caf2a623345a94c53adc1602ed7e1cf326683e380b4b592bef8c63c6de2facad.json": {
+      "bytes": 122196,
+      "sha256": "caf2a623345a94c53adc1602ed7e1cf326683e380b4b592bef8c63c6de2facad"
+    },
+    "site/groups/skill/index.html": {
+      "bytes": 1821,
+      "sha256": "b3a7246d246431842420cc58dc86fea7e0df5cb878a8ae5a024b1005ea946078"
+    },
+    "site/groups/status-effect/index.html": {
+      "bytes": 1821,
+      "sha256": "b3a7246d246431842420cc58dc86fea7e0df5cb878a8ae5a024b1005ea946078"
+    },
+    "site/groups/survival-rule/index.html": {
+      "bytes": 1821,
+      "sha256": "b3a7246d246431842420cc58dc86fea7e0df5cb878a8ae5a024b1005ea946078"
+    },
+    "site/index.html": {
+      "bytes": 1821,
+      "sha256": "b3a7246d246431842420cc58dc86fea7e0df5cb878a8ae5a024b1005ea946078"
+    },
+    "site/objects/0781ad4897cab6c1711414187715b7262aeb112493e90ad2adb62922a359af68.json": {
+      "bytes": 5929,
+      "sha256": "0781ad4897cab6c1711414187715b7262aeb112493e90ad2adb62922a359af68"
+    },
+    "site/objects/e9d6071f2fb798446d4f539d744abad7bab0a94a6a955136a4fa94d9f8c095c2.json": {
+      "bytes": 665,
+      "sha256": "e9d6071f2fb798446d4f539d744abad7bab0a94a6a955136a4fa94d9f8c095c2"
+    },
+    "site/reader.css": {
+      "bytes": 59,
+      "sha256": "31b3df513e2f5dab1f6a5db5c18838345bc1e7fd666166dc98d48c996fba712f"
+    },
+    "site/reader.js": {
+      "bytes": 7019,
+      "sha256": "42f2ae61a23ab1f3ab2caa770bd416b2130cee7ea9c55ce8ec90b7de8e3e4265"
+    },
+    "site/reader.json": {
+      "bytes": 12248,
+      "sha256": "b14226f20ee501a24088db6e245bfa82b7ecd2d2245cfd79f2ac8ce8ae9773af"
+    },
+    "site/releases/a1ed01a8fb6da0277fe90371fa6137e22cc6887cc3871c122ed19557488aa232.json": {
+      "bytes": 12248,
+      "sha256": "b14226f20ee501a24088db6e245bfa82b7ecd2d2245cfd79f2ac8ce8ae9773af"
+    },
+    "site/runtime/02b0e7861655c26a9be2fec058c6adcfa2bbd37fc11c38f10a07bb0d4812630b/reader.css": {
+      "bytes": 27889,
+      "sha256": "02b0e7861655c26a9be2fec058c6adcfa2bbd37fc11c38f10a07bb0d4812630b"
+    },
+    "site/runtime/c92779fc2694bf7762ee6b5cf2e6da6a889b72c3e95e28adf1c3e01e20b645f0/reader.js": {
+      "bytes": 77424,
+      "sha256": "c92779fc2694bf7762ee6b5cf2e6da6a889b72c3e95e28adf1c3e01e20b645f0"
+    }
+  },
+  "kind": "generated-wiki-output",
+  "release_id": "a1ed01a8fb6da0277fe90371fa6137e22cc6887cc3871c122ed19557488aa232",
+  "repository_id": "skills-survival",
+  "schema_version": 1
+}
